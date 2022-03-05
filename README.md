@@ -9,3 +9,5 @@ KivyMD is the python library for cross platform application.
 1. https://github.com/kivymd/KivyMD
 2. git clone https://github.com/kivymd/KivyMD.git
 3. sudo pip3 install https://github.com/kivymd/KivyMD/archive/master.zip
+
+https://www.youtube.com/channel/UCX0N40lgbtG0uQc6pRvYbnQ/videos
